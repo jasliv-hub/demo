@@ -1,2 +1,3 @@
 # demo
-my first git repository
+THIS is my first git repository
+AUTHOR:- AGAM
